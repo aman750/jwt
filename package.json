@@ -9,7 +9,7 @@
   "author": "Arash",
   "license": "ISC",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "body-parser": "^1.19.0",
     "connect-mongo": "^1.3.2",
     "cors": "^2.8.5",
